@@ -1,7 +1,7 @@
 # ThreadJect
 ## Description
 Proof-of-Concept Manual DLL Injector that hijacks a thread in order to load dll into target process.
-##How does it work?
+## How does it work?
 1. Open DLL and read content into buffer
 2. Make sure the file is a DLL and headers are properly defined
 3. Adjust Privilege & open the target process based on PID provided in first cmd argument
