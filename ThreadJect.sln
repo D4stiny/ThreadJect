@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ThreadJect", "ThreadJect\ThreadJect.vcxproj", "{268C73A1-C7ED-43A7-9907-D5D99DE6BDAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{268C73A1-C7ED-43A7-9907-D5D99DE6BDAC}.Debug|Win32.ActiveCfg = Release|Win32
+		{268C73A1-C7ED-43A7-9907-D5D99DE6BDAC}.Debug|Win32.Build.0 = Release|Win32
+		{268C73A1-C7ED-43A7-9907-D5D99DE6BDAC}.Debug|Win32.Deploy.0 = Release|Win32
+		{268C73A1-C7ED-43A7-9907-D5D99DE6BDAC}.Release|Win32.ActiveCfg = Release|Win32
+		{268C73A1-C7ED-43A7-9907-D5D99DE6BDAC}.Release|Win32.Build.0 = Release|Win32
+		{268C73A1-C7ED-43A7-9907-D5D99DE6BDAC}.Release|Win32.Deploy.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
